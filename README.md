@@ -24,7 +24,9 @@ To run this application, execute the following commands:
 
     ```
     $ cd server
-    $ gulp dev
+   #no need this $ gulp dev
+    $ npm run build
+    $ npm start 
     ```
 
   3. Start the UI development server
